@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/faceswap/static/css/main.f51d5156.css",
-    "main.js": "/faceswap/static/js/main.1c263ee8.js",
+    "main.js": "/faceswap/static/js/main.25d27103.js",
     "static/js/8067.3b294208.chunk.js": "/faceswap/static/js/8067.3b294208.chunk.js",
     "static/js/7909.825e32b7.chunk.js": "/faceswap/static/js/7909.825e32b7.chunk.js",
-    "static/js/4916.938a64e3.chunk.js": "/faceswap/static/js/4916.938a64e3.chunk.js",
+    "static/js/4916.f2a72c3b.chunk.js": "/faceswap/static/js/4916.f2a72c3b.chunk.js",
     "static/js/6187.3f1ab1e0.chunk.js": "/faceswap/static/js/6187.3f1ab1e0.chunk.js",
     "static/js/5978.4e94e3fc.chunk.js": "/faceswap/static/js/5978.4e94e3fc.chunk.js",
     "static/js/9598.96b24d90.chunk.js": "/faceswap/static/js/9598.96b24d90.chunk.js",
@@ -62,6 +62,6 @@
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.1c263ee8.js"
+    "static/js/main.25d27103.js"
   ]
 }
