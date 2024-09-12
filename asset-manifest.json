@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/faceswap/static/css/main.f51d5156.css",
-    "main.js": "/faceswap/static/js/main.08ad7ca4.js",
-    "static/js/8067.9b689314.chunk.js": "/faceswap/static/js/8067.9b689314.chunk.js",
+    "main.js": "/faceswap/static/js/main.a48478ea.js",
+    "static/js/8067.3b294208.chunk.js": "/faceswap/static/js/8067.3b294208.chunk.js",
     "static/js/7909.825e32b7.chunk.js": "/faceswap/static/js/7909.825e32b7.chunk.js",
-    "static/js/4916.0413824b.chunk.js": "/faceswap/static/js/4916.0413824b.chunk.js",
+    "static/js/4916.f3db0932.chunk.js": "/faceswap/static/js/4916.f3db0932.chunk.js",
     "static/js/6187.3f1ab1e0.chunk.js": "/faceswap/static/js/6187.3f1ab1e0.chunk.js",
     "static/js/5978.4e94e3fc.chunk.js": "/faceswap/static/js/5978.4e94e3fc.chunk.js",
     "static/js/9598.96b24d90.chunk.js": "/faceswap/static/js/9598.96b24d90.chunk.js",
@@ -16,8 +16,8 @@
     "static/js/6895.aabf5a03.chunk.js": "/faceswap/static/js/6895.aabf5a03.chunk.js",
     "static/js/174.680cfb41.chunk.js": "/faceswap/static/js/174.680cfb41.chunk.js",
     "static/js/44.d1ce8046.chunk.js": "/faceswap/static/js/44.d1ce8046.chunk.js",
-    "static/js/825.d2d6c68a.chunk.js": "/faceswap/static/js/825.d2d6c68a.chunk.js",
-    "static/js/7647.d5d77e32.chunk.js": "/faceswap/static/js/7647.d5d77e32.chunk.js",
+    "static/js/825.15367905.chunk.js": "/faceswap/static/js/825.15367905.chunk.js",
+    "static/js/7647.54b6ee50.chunk.js": "/faceswap/static/js/7647.54b6ee50.chunk.js",
     "static/js/7630.a0ff85d0.chunk.js": "/faceswap/static/js/7630.a0ff85d0.chunk.js",
     "static/js/176.1b4318a4.chunk.js": "/faceswap/static/js/176.1b4318a4.chunk.js",
     "static/js/816.db01ff11.chunk.js": "/faceswap/static/js/816.db01ff11.chunk.js",
@@ -40,6 +40,7 @@
     "static/js/8524.fca0c660.chunk.js": "/faceswap/static/js/8524.fca0c660.chunk.js",
     "static/js/327.70a58703.chunk.js": "/faceswap/static/js/327.70a58703.chunk.js",
     "static/js/2096.283a93f3.chunk.js": "/faceswap/static/js/2096.283a93f3.chunk.js",
+    "static/js/6365.f54c7226.chunk.js": "/faceswap/static/js/6365.f54c7226.chunk.js",
     "static/js/2875.e7dab472.chunk.js": "/faceswap/static/js/2875.e7dab472.chunk.js",
     "static/js/3389.e7b457a7.chunk.js": "/faceswap/static/js/3389.e7b457a7.chunk.js",
     "static/js/9545.1c9fcc42.chunk.js": "/faceswap/static/js/9545.1c9fcc42.chunk.js",
@@ -54,12 +55,12 @@
     "static/js/6924.0b872df2.chunk.js": "/faceswap/static/js/6924.0b872df2.chunk.js",
     "static/js/1673.718f07bf.chunk.js": "/faceswap/static/js/1673.718f07bf.chunk.js",
     "static/js/712.a9467c3d.chunk.js": "/faceswap/static/js/712.a9467c3d.chunk.js",
-    "static/media/logo.png": "/faceswap/static/media/logo.af62b46ecc0f4deea28d.png",
+    "static/media/logo.png": "/faceswap/static/media/logo.09e7b880636e8fb4f3d5.png",
     "static/media/coin.png": "/faceswap/static/media/coin.84cf06a861a4cfb9ad42.png",
     "index.html": "/faceswap/index.html"
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.08ad7ca4.js"
+    "static/js/main.a48478ea.js"
   ]
 }
