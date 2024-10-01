@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/faceswap/static/css/main.f51d5156.css",
-    "main.js": "/faceswap/static/js/main.8300a4bf.js",
+    "main.js": "/faceswap/static/js/main.3877d027.js",
     "static/js/8067.8bcc453a.chunk.js": "/faceswap/static/js/8067.8bcc453a.chunk.js",
     "static/js/7909.b4c5aa22.chunk.js": "/faceswap/static/js/7909.b4c5aa22.chunk.js",
-    "static/js/4916.5935f7a3.chunk.js": "/faceswap/static/js/4916.5935f7a3.chunk.js",
+    "static/css/8940.a255a8bc.chunk.css": "/faceswap/static/css/8940.a255a8bc.chunk.css",
+    "static/js/8940.f95ab16b.chunk.js": "/faceswap/static/js/8940.f95ab16b.chunk.js",
     "static/js/6187.475a710e.chunk.js": "/faceswap/static/js/6187.475a710e.chunk.js",
     "static/js/5978.a85c5e54.chunk.js": "/faceswap/static/js/5978.a85c5e54.chunk.js",
     "static/js/9598.64091738.chunk.js": "/faceswap/static/js/9598.64091738.chunk.js",
@@ -54,15 +55,19 @@
     "static/js/2869.4c93adf0.chunk.js": "/faceswap/static/js/2869.4c93adf0.chunk.js",
     "static/js/9886.e52626b4.chunk.js": "/faceswap/static/js/9886.e52626b4.chunk.js",
     "static/js/6275.8489e0d1.chunk.js": "/faceswap/static/js/6275.8489e0d1.chunk.js",
+    "static/js/8395.a3df7ffc.chunk.js": "/faceswap/static/js/8395.a3df7ffc.chunk.js",
     "static/js/6924.312291f5.chunk.js": "/faceswap/static/js/6924.312291f5.chunk.js",
-    "static/js/1673.4b114b13.chunk.js": "/faceswap/static/js/1673.4b114b13.chunk.js",
     "static/js/712.afe49eab.chunk.js": "/faceswap/static/js/712.afe49eab.chunk.js",
     "static/media/logo.png": "/faceswap/static/media/logo.09e7b880636e8fb4f3d5.png",
     "static/media/coin.png": "/faceswap/static/media/coin.84cf06a861a4cfb9ad42.png",
+    "static/media/slick.svg": "/faceswap/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/faceswap/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/faceswap/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/faceswap/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/faceswap/index.html"
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.8300a4bf.js"
+    "static/js/main.3877d027.js"
   ]
 }
