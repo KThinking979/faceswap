@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/faceswap/static/css/main.f51d5156.css",
-    "main.js": "/faceswap/static/js/main.cc3f95c8.js",
+    "main.js": "/faceswap/static/js/main.5cdc5cb5.js",
     "static/js/8067.8bcc453a.chunk.js": "/faceswap/static/js/8067.8bcc453a.chunk.js",
     "static/js/7909.b4c5aa22.chunk.js": "/faceswap/static/js/7909.b4c5aa22.chunk.js",
     "static/css/8940.a255a8bc.chunk.css": "/faceswap/static/css/8940.a255a8bc.chunk.css",
@@ -68,6 +68,6 @@
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.cc3f95c8.js"
+    "static/js/main.5cdc5cb5.js"
   ]
 }
