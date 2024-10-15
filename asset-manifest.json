@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/faceswap/static/css/main.f51d5156.css",
-    "main.js": "/faceswap/static/js/main.710dc1be.js",
+    "main.js": "/faceswap/static/js/main.8bac5193.js",
     "static/js/8067.8bcc453a.chunk.js": "/faceswap/static/js/8067.8bcc453a.chunk.js",
     "static/js/7909.b4c5aa22.chunk.js": "/faceswap/static/js/7909.b4c5aa22.chunk.js",
     "static/css/8940.a255a8bc.chunk.css": "/faceswap/static/css/8940.a255a8bc.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/9598.64091738.chunk.js": "/faceswap/static/js/9598.64091738.chunk.js",
     "static/js/9132.329f88b2.chunk.js": "/faceswap/static/js/9132.329f88b2.chunk.js",
     "static/js/5946.60c64152.chunk.js": "/faceswap/static/js/5946.60c64152.chunk.js",
-    "static/js/238.2a989e36.chunk.js": "/faceswap/static/js/238.2a989e36.chunk.js",
+    "static/js/238.c251be8a.chunk.js": "/faceswap/static/js/238.c251be8a.chunk.js",
     "static/js/4950.6d963a11.chunk.js": "/faceswap/static/js/4950.6d963a11.chunk.js",
     "static/js/2069.ffbc75c5.chunk.js": "/faceswap/static/js/2069.ffbc75c5.chunk.js",
     "static/js/7449.68d77287.chunk.js": "/faceswap/static/js/7449.68d77287.chunk.js",
@@ -68,6 +68,6 @@
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.710dc1be.js"
+    "static/js/main.8bac5193.js"
   ]
 }
